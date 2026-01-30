@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">Hi, I'm Filip — a Junior Front-end Developer currently pursuing a degree in Software Engineering at UTB FAI.</p>
+<p align="left">Hi, I'm Filip — Front-end Developer currently pursuing a degree in Software Engineering at UTB FAI.</p>
 
 ###
 
