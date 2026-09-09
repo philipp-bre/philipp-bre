@@ -16,14 +16,6 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">Hi, I'm Filip — Front-end Developer</p>
-
-###
-
 <h3 align="left">🛠 Language and tools</h3>
 
 ###
